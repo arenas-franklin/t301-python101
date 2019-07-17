@@ -1,0 +1,34 @@
+arquivos para apoio:
+https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/
+https://pythonacademy.com.br/blog/porque-aprender-python-5-motivos-para-aprender-agora
+https://tableless.com.br/por-que-python/
+https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/#mudancas-sutis
+
+exercícios:
+1 - Escreva um programa que leia o nome de um funcionário,
+seu número de horas trabalhadas, o valor que recebe por hora
+e calcula o salário desse funcionário.
+A seguir, mostre o nome e o salário do funcionário.
+
+2 - crie uma função que receba uma lista de 20 valores aleatórios, retornar
+apenas o maior valor e printar em tela.
+
+3 - crie uma lista com 10 números aleatórios,
+itere essa lista e printar em tela os
+valores que são ímpares e pares.
+
+exemplo de resultado em tela:
+
+Essa foi a lista gerada aleatóriamente:
+[37, 52, 73, 91, 49, 67, 19, 64, 58, 22]
+ímpares: [37, 73, 91, 49, 67, 19]
+pares: [52, 64, 58, 22]
+
+4 - Crie uma função python que cálcule uma função de 2º Grau
+
+  Delta = B² - 4AC
+  Bhāskara = -B +- (raiz de delta)/ 2A
+
+5 - Faça um programa que leia o raio de um círculo e faça duas
+funções: uma que calcule a área do círculo e outra que calcule
+o comprimento do círculo.
